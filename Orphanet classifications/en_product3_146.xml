@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:58:20" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 04:59:34" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -879,7 +879,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217610</ExpertLink>
                             <Name lang="en">Neuromuscular disease with dilated cardiomyopathy</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="12">
+                          <ClassificationNodeChildList count="11">
                             <ClassificationNode>
                               <Disorder id="24171">
                                 <OrphaNumber>466801</OrphaNumber>
@@ -965,7 +965,7 @@
                               <Disorder id="678">
                                 <OrphaNumber>62</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=62</ExpertLink>
-                                <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2D</Name>
+                                <Name lang="en">Alpha-sarcoglycan-related  limb-girdle muscular dystrophy R3</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -974,7 +974,7 @@
                               <Disorder id="8715">
                                 <OrphaNumber>119</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=119</ExpertLink>
-                                <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2E</Name>
+                                <Name lang="en">Beta-sarcoglycan-related  limb-girdle muscular dystrophy R4</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -983,7 +983,7 @@
                               <Disorder id="8716">
                                 <OrphaNumber>353</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=353</ExpertLink>
-                                <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2C</Name>
+                                <Name lang="en">Gamma-sarcoglycan-related  limb-girdle muscular dystrophy R5</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -992,16 +992,7 @@
                               <Disorder id="8717">
                                 <OrphaNumber>219</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=219</ExpertLink>
-                                <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2F</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="8719">
-                                <OrphaNumber>264</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264</ExpertLink>
-                                <Name lang="en">Autosomal dominant limb-girdle muscular dystrophy type 1B</Name>
+                                <Name lang="en">Delta-sarcoglycan-related  limb-girdle muscular dystrophy R6</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1019,7 +1010,7 @@
                               <Disorder id="18521">
                                 <OrphaNumber>206554</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206554</ExpertLink>
-                                <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2M</Name>
+                                <Name lang="en">Fukutin-related  limb-girdle muscular dystrophy R13</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -1316,7 +1307,7 @@
                               <Disorder id="18521">
                                 <OrphaNumber>206554</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206554</ExpertLink>
-                                <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2M</Name>
+                                <Name lang="en">Fukutin-related  limb-girdle muscular dystrophy R13</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>

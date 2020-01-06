@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:59:24" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 05:00:39" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1182,7 +1182,7 @@
                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93548</ExpertLink>
                 <Name lang="en">Glomerular disease</Name>
               </Disorder>
-              <ClassificationNodeChildList count="5">
+              <ClassificationNodeChildList count="8">
                 <ClassificationNode>
                   <Disorder id="21112">
                     <OrphaNumber>300333</OrphaNumber>
@@ -1756,7 +1756,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=102373</ExpertLink>
                     <Name lang="en">Primary glomerular disease</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="19">
+                  <ClassificationNodeChildList count="18">
                     <ClassificationNode>
                       <Disorder id="392">
                         <OrphaNumber>2614</OrphaNumber>
@@ -1902,51 +1902,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="12925">
-                        <OrphaNumber>97556</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97556</ExpertLink>
-                        <Name lang="en">Congenital and infantile nephrotic syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="4">
-                        <ClassificationNode>
-                          <Disorder id="20470">
-                            <OrphaNumber>280406</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280406</ExpertLink>
-                            <Name lang="en">Familial steroid-resistant nephrotic syndrome with sensorineural deafness</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="26449">
-                            <OrphaNumber>506334</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506334</ExpertLink>
-                            <Name lang="en">Familial steroid-resistant nephrotic syndrome with adrenal insufficiency</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="4048">
-                            <OrphaNumber>839</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=839</ExpertLink>
-                            <Name lang="en">Congenital nephrotic syndrome, Finnish type</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="21220">
-                            <OrphaNumber>306507</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=306507</ExpertLink>
-                            <Name lang="en">LAMB2-related infantile-onset nephrotic syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="12927">
                         <OrphaNumber>97560</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97560</ExpertLink>
@@ -1988,50 +1943,14 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=357502</ExpertLink>
                         <Name lang="en">Idiopathic nephrotic syndrome</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="3">
+                      <ClassificationNodeChildList count="2">
                         <ClassificationNode>
                           <Disorder id="3551">
                             <OrphaNumber>656</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=656</ExpertLink>
                             <Name lang="en">Genetic steroid-resistant nephrotic syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="4">
-                            <ClassificationNode>
-                              <Disorder id="12191">
-                                <OrphaNumber>93213</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93213</ExpertLink>
-                                <Name lang="en">Familial idiopathic steroid-resistant nephrotic syndrome with focal segmental hyalinosis</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12192">
-                                <OrphaNumber>93214</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93214</ExpertLink>
-                                <Name lang="en">Familial idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial proliferation</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12193">
-                                <OrphaNumber>93216</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93216</ExpertLink>
-                                <Name lang="en">Familial idiopathic steroid-resistant nephrotic syndrome with minimal changes</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12194">
-                                <OrphaNumber>93217</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93217</ExpertLink>
-                                <Name lang="en">Familial idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
@@ -2040,88 +1959,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=69061</ExpertLink>
                             <Name lang="en">Idiopathic steroid-sensitive nephrotic syndrome</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
-                            <ClassificationNode>
-                              <Disorder id="12187">
-                                <OrphaNumber>93206</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93206</ExpertLink>
-                                <Name lang="en">Idiopathic steroid-sensitive nephrotic syndrome with focal segmental hyalinosis</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12188">
-                                <OrphaNumber>93207</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93207</ExpertLink>
-                                <Name lang="en">Idiopathic steroid-sensitive nephrotic syndrome with minimal change</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12189">
-                                <OrphaNumber>93209</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93209</ExpertLink>
-                                <Name lang="en">Idiopathic steroid-sensitive nephrotic syndrome with diffuse mesangial proliferation</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="11620">
-                            <OrphaNumber>84271</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=84271</ExpertLink>
-                            <Name lang="en">Sporadic idiopathic steroid-resistant nephrotic syndrome</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="5">
-                            <ClassificationNode>
-                              <Disorder id="12195">
-                                <OrphaNumber>93218</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93218</ExpertLink>
-                                <Name lang="en">Sporadic idiopathic steroid-resistant nephrotic syndrome with focal segmental hyalinosis</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12196">
-                                <OrphaNumber>93220</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93220</ExpertLink>
-                                <Name lang="en">Sporadic idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12197">
-                                <OrphaNumber>93221</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93221</ExpertLink>
-                                <Name lang="en">Sporadic idiopathic steroid-resistant nephrotic syndrome with minimal changes</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12198">
-                                <OrphaNumber>93222</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=93222</ExpertLink>
-                                <Name lang="en">Sporadic idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial proliferation</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="12924">
-                                <OrphaNumber>97555</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=97555</ExpertLink>
-                                <Name lang="en">Sporadic idiopathic steroid-resistant nephrotic syndrome with collapsing glomerulopathy</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                       </ClassificationNodeChildList>
@@ -2207,6 +2045,33 @@
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="4048">
+                    <OrphaNumber>839</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=839</ExpertLink>
+                    <Name lang="en">Congenital nephrotic syndrome, Finnish type</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="20470">
+                    <OrphaNumber>280406</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=280406</ExpertLink>
+                    <Name lang="en">Familial steroid-resistant nephrotic syndrome with sensorineural deafness</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
+                  </ClassificationNodeChildList>
+                </ClassificationNode>
+                <ClassificationNode>
+                  <Disorder id="26449">
+                    <OrphaNumber>506334</OrphaNumber>
+                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=506334</ExpertLink>
+                    <Name lang="en">Familial steroid-resistant nephrotic syndrome with adrenal insufficiency</Name>
+                  </Disorder>
+                  <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>
                 </ClassificationNode>
               </ClassificationNodeChildList>
@@ -2942,7 +2807,7 @@
                   <Disorder id="3513">
                     <OrphaNumber>2088</OrphaNumber>
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2088</ExpertLink>
-                    <Name lang="en">Glycogen storage disease due to GLUT2 deficiency</Name>
+                    <Name lang="en">Fanconi-Bickel Syndrome</Name>
                   </Disorder>
                   <ClassificationNodeChildList count="0">
                   </ClassificationNodeChildList>

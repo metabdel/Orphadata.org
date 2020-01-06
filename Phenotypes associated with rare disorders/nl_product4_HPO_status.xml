@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:11:35" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 04:11:52" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -7,7 +7,7 @@
     <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
  </Licence>
 </Availability>
-  <HPODisorderSetStatusList count="3807">
+  <HPODisorderSetStatusList count="3842">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -34328,17 +34328,6 @@
       <CreationDate>2018-02-23 15:44:09.93</CreationDate>
       <UpdateDate>2018-02-23 15:44:09.93</UpdateDate>
     </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="3082">
-      <Disorder id="8719">
-        <OrphaNumber>264</OrphaNumber>
-        <Name lang="nl">Autosomaal dominante limb-girdle-spierdystrofie type 1B</Name>
-      </Disorder>
-      <Source>8619549[PMID]_15148145[PMID]_17136397[PMID]_19258295[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2018-02-23 16:21:15.326</CreationDate>
-      <UpdateDate>2018-02-23 16:21:15.326</UpdateDate>
-    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3083">
       <Disorder id="11162">
         <OrphaNumber>79136</OrphaNumber>
@@ -40366,6 +40355,138 @@
       <CreationDate>2019-04-11 08:37:25.82</CreationDate>
       <UpdateDate>2019-04-11 08:37:25.82</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4005">
+      <Disorder id="23722">
+        <OrphaNumber>457359</OrphaNumber>
+        <Name lang="nl">Megalencefalie - ernstige kyfoscoliose - overgroei-syndroom</Name>
+      </Disorder>
+      <Source>26138117[PMID]_26153217[PMID]_27108999[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-13 10:34:51.836</CreationDate>
+      <UpdateDate>2019-12-13 10:34:51.836</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4004">
+      <Disorder id="23721">
+        <OrphaNumber>457351</OrphaNumber>
+        <Name lang="nl">Microcefalie - intellectuele achterstand - sensorineuraal gehoorverlies - epilepsie - abnormale spiertonus-syndroom</Name>
+      </Disorder>
+      <Source>27683084[PMID]_26299366[PMID]_27246907[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-12 14:29:52.466</CreationDate>
+      <UpdateDate>2019-12-12 14:29:52.466</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4007">
+      <Disorder id="23726">
+        <OrphaNumber>457395</OrphaNumber>
+        <Name lang="nl">Progressieve spondylo-epimetafysaire dyplasie - kleine gestalte - korte vierde metatarsalen - intellectuele achterstand-syndroom</Name>
+      </Disorder>
+      <Source>30063090[PMID]_26365341[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-16 09:19:49.113</CreationDate>
+      <UpdateDate>2019-12-16 09:19:49.113</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4006">
+      <Disorder id="23723">
+        <OrphaNumber>457365</OrphaNumber>
+        <Name lang="nl">Intellectuele achterstand - spierzwakte - kleine gestalte - faciale dysmorfie-syndroom</Name>
+      </Disorder>
+      <Source>26192890[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-13 12:16:30.71</CreationDate>
+      <UpdateDate>2019-12-13 12:16:30.71</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4001">
+      <Disorder id="23708">
+        <OrphaNumber>457212</OrphaNumber>
+        <Name lang="nl">Progressieve essentiële tremor - spraakstoornis - faciale dysmorfie - intellectuele achterstand - gedragsstoornis-syndroom</Name>
+      </Disorder>
+      <Source>25704603[PMID]_25970702[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-11 14:36:36.583</CreationDate>
+      <UpdateDate>2019-12-11 14:36:36.583</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4000">
+      <Disorder id="794">
+        <OrphaNumber>926</OrphaNumber>
+        <Name lang="nl">Acatalasemie</Name>
+      </Disorder>
+      <Source>11500062[PMID]_24025477[PMID]_24522161[PMID]_25772105[PMID]_1999334[PMID]_11117918[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-11 12:26:07.323</CreationDate>
+      <UpdateDate>2019-12-11 12:26:07.323</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4003">
+      <Disorder id="23720">
+        <OrphaNumber>457284</OrphaNumber>
+        <Name lang="nl">Microcefalie - hypoplasie van het corpus callosum - intellectuele achterstand - faciale dysmorfie-syndroom</Name>
+      </Disorder>
+      <Source>31687265[PMID]_25533962[PMID]_26168268[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-12 10:39:52.326</CreationDate>
+      <UpdateDate>2019-12-12 10:39:52.326</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4002">
+      <Disorder id="23719">
+        <OrphaNumber>457279</OrphaNumber>
+        <Name lang="nl">Intellectuele achterstand - macrocefalie - hypotonie - gedragsstoornissen-syndroom</Name>
+      </Disorder>
+      <Source>26576547[PMID]_25972378[PMID]_26168268[PMID]_25533962[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-12 08:42:53.04</CreationDate>
+      <UpdateDate>2019-12-12 08:42:53.04</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4008">
+      <Disorder id="23771">
+        <OrphaNumber>459061</OrphaNumber>
+        <Name lang="nl">Craniofaciale dysplasie - kleine gestalte - ectodermale anomalieën - intellectuele achterstand-syndroom</Name>
+      </Disorder>
+      <Source>29362492[PMID]_29410513[PMID]_26220823[PMID]_25558065[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-16 13:24:40.48</CreationDate>
+      <UpdateDate>2019-12-16 13:24:40.48</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3975">
+      <Disorder id="23039">
+        <OrphaNumber>412035</OrphaNumber>
+        <Name lang="nl">13q12.3 microdeletiesyndroom</Name>
+      </Disorder>
+      <Source>24664804[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-02 16:26:10.966</CreationDate>
+      <UpdateDate>2019-12-02 16:26:10.966</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3974">
+      <Disorder id="22694">
+        <OrphaNumber>397709</OrphaNumber>
+        <Name lang="nl">Intellectuele achterstand - grof gelaat - macrocefalie - cerebellaire hypotrofie-syndroom</Name>
+      </Disorder>
+      <Source>27913285[PMID]_25848753[PMID]_25439728[PMID]_24501761[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-02 15:23:57.976</CreationDate>
+      <UpdateDate>2019-12-02 15:23:57.976</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3973">
+      <Disorder id="17872">
+        <OrphaNumber>169802</OrphaNumber>
+        <Name lang="nl">Ernstige hemofilie A</Name>
+      </Disorder>
+      <Source>P:0030137</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-02 12:00:23.79</CreationDate>
+      <UpdateDate>2019-12-02 12:00:23.79</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3972">
       <Disorder id="22687">
         <OrphaNumber>397612</OrphaNumber>
@@ -40420,6 +40541,270 @@
       <Online>y</Online>
       <CreationDate>2019-11-26 09:47:24.8</CreationDate>
       <UpdateDate>2019-11-26 09:47:24.8</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3983">
+      <Disorder id="22854">
+        <OrphaNumber>401935</OrphaNumber>
+        <Name lang="nl">14q24.1q24.3 microdeletiesyndroom</Name>
+      </Disorder>
+      <Source>24357125[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 15:00:19.723</CreationDate>
+      <UpdateDate>2019-12-04 15:00:19.723</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3982">
+      <Disorder id="22852">
+        <OrphaNumber>401923</OrphaNumber>
+        <Name lang="nl">9q31.1q31.3 microdeletiesyndroom</Name>
+      </Disorder>
+      <Source>24376033[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 14:34:24.936</CreationDate>
+      <UpdateDate>2019-12-04 14:34:24.936</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3981">
+      <Disorder id="22827">
+        <OrphaNumber>401777</OrphaNumber>
+        <Name lang="nl">Opticusatrofie - intellectuele achterstand-syndroom</Name>
+      </Disorder>
+      <Source>26986877[PMID]_28963436[PMID]_24462372[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 13:42:58.703</CreationDate>
+      <UpdateDate>2019-12-04 13:42:58.703</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3980">
+      <Disorder id="22715">
+        <OrphaNumber>397973</OrphaNumber>
+        <Name lang="nl">Intellectuele achterstand - obesitas - prognathie - oog- en huidanomalieën-syndroom</Name>
+      </Disorder>
+      <Source>19288561[PMID]_11746007[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 16:11:10.666</CreationDate>
+      <UpdateDate>2019-12-03 16:11:10.666</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3979">
+      <Disorder id="22711">
+        <OrphaNumber>397951</OrphaNumber>
+        <Name lang="nl">Microcefalie - dun corpus callosum - intellectuele achterstand-syndroom</Name>
+      </Disorder>
+      <Source>24084144[PMID]_22633631[PMID]_21937992[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 15:29:34.68</CreationDate>
+      <UpdateDate>2019-12-03 15:29:34.68</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3978">
+      <Disorder id="23271">
+        <OrphaNumber>434179</OrphaNumber>
+        <Name lang="nl">Orofaciodigitaal syndroom type 14</Name>
+      </Disorder>
+      <Source>30097616[PMID]_24997988[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 14:40:45.343</CreationDate>
+      <UpdateDate>2019-12-03 14:40:45.343</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3977">
+      <Disorder id="23113">
+        <OrphaNumber>420561</OrphaNumber>
+        <Name lang="nl">Syndroom van Temple-Baraitser</Name>
+      </Disorder>
+      <Source>26818738[PMID]_25629734[PMID]_25420144[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 11:36:37.163</CreationDate>
+      <UpdateDate>2019-12-03 11:36:37.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3976">
+      <Disorder id="23042">
+        <OrphaNumber>412069</OrphaNumber>
+        <Name lang="nl">AHDC1-gerelateerd intellectuele achterstand - obstructieve slaapapneu - milde dysmorfie-syndroom</Name>
+      </Disorder>
+      <Source>30152016[PMID]_29696776[PMID]_24791903[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 09:18:14.6</CreationDate>
+      <UpdateDate>2019-12-03 09:18:14.6</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3990">
+      <Disorder id="23391">
+        <OrphaNumber>439822</OrphaNumber>
+        <Name lang="nl">PDE4D-haploinsufficiëntie-syndroom</Name>
+      </Disorder>
+      <Source>24203977[PMID]_28515031[PMID]_30006632[PMID]_21594994[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-06 12:00:35.546</CreationDate>
+      <UpdateDate>2019-12-06 12:00:35.546</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3991">
+      <Disorder id="23474">
+        <OrphaNumber>444013</OrphaNumber>
+        <Name lang="nl">Gecombineerde oxidatieve fosforylatiedeficiëntie type 23</Name>
+      </Disorder>
+      <Source>25434004[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-06 14:22:03.21</CreationDate>
+      <UpdateDate>2019-12-06 14:22:03.21</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3988">
+      <Disorder id="23365">
+        <OrphaNumber>438134</OrphaNumber>
+        <Name lang="nl">PCNA-gerelateerde progressieve neurodegeneratieve fotosensitiviteit-syndroom</Name>
+      </Disorder>
+      <Source>24911150[PMID]_26255937[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-05 13:25:22.056</CreationDate>
+      <UpdateDate>2019-12-05 13:25:22.056</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3989">
+      <Disorder id="23367">
+        <OrphaNumber>438178</OrphaNumber>
+        <Name lang="nl">Ernstige intellectuele achterstand - epilepsie - cataract-syndroom door fatty acyl-CoA-reductase 1-deficiëntie</Name>
+      </Disorder>
+      <Source>25439727[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-05 14:47:24.24</CreationDate>
+      <UpdateDate>2019-12-05 14:47:24.24</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3986">
+      <Disorder id="23328">
+        <OrphaNumber>436151</OrphaNumber>
+        <Name lang="nl">Intellectuele achterstand - expressieve afasie - faciale dysmorfie-syndroom</Name>
+      </Disorder>
+      <Source>26139234[PMID]_25217958[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-05 09:29:48.51</CreationDate>
+      <UpdateDate>2019-12-05 09:29:48.51</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3987">
+      <Disorder id="23335">
+        <OrphaNumber>436245</OrphaNumber>
+        <Name lang="nl">Retinitis pigmentosa - juveniel cataract - kleine gestalte - intellectuele achterstand-syndroom</Name>
+      </Disorder>
+      <Source>10420199[PMID]_24916380[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-05 11:34:59.246</CreationDate>
+      <UpdateDate>2019-12-05 11:34:59.246</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3984">
+      <Disorder id="22922">
+        <OrphaNumber>404451</OrphaNumber>
+        <Name lang="nl">FBLN1-gerelateerd ontwikkelingsachterstand - anomalie van het centrale zenuwstelsel - syndactylie-syndroom</Name>
+      </Disorder>
+      <Source>24084572[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 15:33:22.313</CreationDate>
+      <UpdateDate>2019-12-04 15:33:22.313</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3985">
+      <Disorder id="23037">
+        <OrphaNumber>411986</OrphaNumber>
+        <Name lang="nl">Vroeg beginnende epileptische encefalopathie - corticale blindheid - intellectuele achterstand - faciale dismorfie-syndroom</Name>
+      </Disorder>
+      <Source>24814191[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 16:07:27.363</CreationDate>
+      <UpdateDate>2019-12-04 16:07:27.363</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3998">
+      <Disorder id="23649">
+        <OrphaNumber>453533</OrphaNumber>
+        <Name lang="nl">Polyendocrien-polyneuropathiesyndroom</Name>
+      </Disorder>
+      <Source>25248098[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-10 14:05:14.096</CreationDate>
+      <UpdateDate>2019-12-10 14:05:14.096</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3999">
+      <Disorder id="23707">
+        <OrphaNumber>457205</OrphaNumber>
+        <Name lang="nl">Infantiel axonale motorische en sensorische neuropathie - opticusatrofie - neurodegeneratie-syndroom</Name>
+      </Disorder>
+      <Source>25504045[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-11 09:24:45.956</CreationDate>
+      <UpdateDate>2019-12-11 09:24:45.956</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3996">
+      <Disorder id="23645">
+        <OrphaNumber>453499</OrphaNumber>
+        <Name lang="nl">Neurologische ontwikkelingsstoornis - craniofaciale dysmorfie - hartdefect - skeletanomalieën-syndroom</Name>
+      </Disorder>
+      <Source>30998304[PMID]_29904177[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-10 09:45:18.406</CreationDate>
+      <UpdateDate>2019-12-10 09:45:18.406</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3997">
+      <Disorder id="23647">
+        <OrphaNumber>453510</OrphaNumber>
+        <Name lang="nl">Congenitale ongevoeligheid voor pijn met ernstige intellectuele achterstand</Name>
+      </Disorder>
+      <Source>29419974[PMID]_26068709[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-10 12:57:50.643</CreationDate>
+      <UpdateDate>2019-12-10 12:57:50.643</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3994">
+      <Disorder id="23558">
+        <OrphaNumber>447980</OrphaNumber>
+        <Name lang="nl">19p13.3 microduplicatiesyndroom</Name>
+      </Disorder>
+      <Source>25858326[PMID]_20613546[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-09 14:23:02.72</CreationDate>
+      <UpdateDate>2019-12-09 14:23:02.72</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3995">
+      <Disorder id="23560">
+        <OrphaNumber>447997</OrphaNumber>
+        <Name lang="nl">Spastische tetraplegie - dun corpus callosum - progressieve postnatale microcefalie-syndroom</Name>
+      </Disorder>
+      <Source>31763347[PMID]_29989513[PMID]_27161889[PMID]_26041762[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-09 16:25:55.046</CreationDate>
+      <UpdateDate>2019-12-09 16:25:55.046</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3992">
+      <Disorder id="23478">
+        <OrphaNumber>444072</OrphaNumber>
+        <Name lang="nl">Cerebellair-faciaal-dentaal syndroom</Name>
+      </Disorder>
+      <Source>25561519[PMID]_27748960[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-06 17:25:47.45</CreationDate>
+      <UpdateDate>2019-12-06 17:25:47.45</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3993">
+      <Disorder id="23479">
+        <OrphaNumber>444077</OrphaNumber>
+        <Name lang="nl">Cognitieve beperking - grof aangezicht - hartdefecten - obesitas - pulmonale betrokkenheid - kleine gestalte - skeletdysplasie-syndroom</Name>
+      </Disorder>
+      <Source>31058441[PMID]_25730767[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-09 11:19:59.57</CreationDate>
+      <UpdateDate>2019-12-09 11:19:59.57</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3944">
       <Disorder id="22317">

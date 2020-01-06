@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:59:18" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 05:00:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1464,7 +1464,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264699</ExpertLink>
                             <Name lang="en">Secondary interstitial lung disease specific to childhood associated with a systemic disease</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="6">
+                          <ClassificationNodeChildList count="5">
                             <ClassificationNode>
                               <Disorder id="20114">
                                 <OrphaNumber>264704</OrphaNumber>
@@ -1745,15 +1745,6 @@
                               </ClassificationNodeChildList>
                             </ClassificationNode>
                             <ClassificationNode>
-                              <Disorder id="20118">
-                                <OrphaNumber>264724</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264724</ExpertLink>
-                                <Name lang="en">OBSOLETE: Langerhans cell histiocytosis specific to childhood</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
                               <Disorder id="23481">
                                 <OrphaNumber>444092</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=444092</ExpertLink>
@@ -1959,21 +1950,12 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264745</ExpertLink>
                             <Name lang="en">Secondary interstitial lung disease specific to adulthood associated with a systemic disease</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="2">
+                          <ClassificationNodeChildList count="1">
                             <ClassificationNode>
                               <Disorder id="735">
                                 <OrphaNumber>797</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=797</ExpertLink>
                                 <Name lang="en">Sarcoidosis</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
-                            <ClassificationNode>
-                              <Disorder id="20122">
-                                <OrphaNumber>264750</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264750</ExpertLink>
-                                <Name lang="en">OBSOLETE: Langerhans cell histiocytosis specific to adulthood</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
@@ -2101,7 +2083,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264949</ExpertLink>
                                 <Name lang="en">Secondary interstitial lung disease in childhood and adulthood associated with a systemic disease</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="5">
+                              <ClassificationNodeChildList count="4">
                                 <ClassificationNode>
                                   <Disorder id="747">
                                     <OrphaNumber>375</OrphaNumber>
@@ -2127,15 +2109,6 @@
                                       <ClassificationNodeChildList count="0">
                                       </ClassificationNodeChildList>
                                     </ClassificationNode>
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="20129">
-                                    <OrphaNumber>264955</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=264955</ExpertLink>
-                                    <Name lang="en">OBSOLETE: Langerhans cell histiocytosis in childhood and adulthood</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>
                                 </ClassificationNode>
                                 <ClassificationNode>

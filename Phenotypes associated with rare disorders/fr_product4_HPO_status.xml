@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:11:31" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 04:11:48" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -7,7 +7,7 @@
     <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
  </Licence>
 </Availability>
-  <HPODisorderSetStatusList count="3807">
+  <HPODisorderSetStatusList count="3842">
     <HPODisorderSetStatus id="2">
       <Disorder id="3">
         <OrphaNumber>61</OrphaNumber>
@@ -561,7 +561,7 @@
     <HPODisorderSetStatus id="59">
       <Disorder id="123">
         <OrphaNumber>534</OrphaNumber>
-        <Name lang="fr">Syndrome oculo-cérébro-rénal</Name>
+        <Name lang="fr">Syndrome oculo-cérébro-rénal de Lowe</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -5210,7 +5210,7 @@
     <HPODisorderSetStatus id="491">
       <Disorder id="1195">
         <OrphaNumber>1878</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2H</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures associée à TRIM32 R8</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22473,7 +22473,7 @@
     <HPODisorderSetStatus id="2067">
       <Disorder id="17618">
         <OrphaNumber>166100</OrphaNumber>
-        <Name lang="fr">Syndrome de Stickler type 3</Name>
+        <Name lang="fr">Dysplasie oto-spondylo-mégaépiphysaire autosomique dominante</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22847,7 +22847,7 @@
     <HPODisorderSetStatus id="2103">
       <Disorder id="18313">
         <OrphaNumber>183713</OrphaNumber>
-        <Name lang="fr">Infections à bactéries pyogènes associées à un déficit en MyD88</Name>
+        <Name lang="fr">Susceptibilité bactérienne dépendante de la voie TLR</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -22990,7 +22990,7 @@
     <HPODisorderSetStatus id="2083">
       <Disorder id="17819">
         <OrphaNumber>169095</OrphaNumber>
-        <Name lang="fr">Dysgénésie kystique alymphoïde du thymus</Name>
+        <Name lang="fr">Déficit immunitaire combiné sévère par déficit en FOXN1</Name>
       </Disorder>
       <Source/>
       <ValidationStatus>y</ValidationStatus>
@@ -24816,7 +24816,7 @@
     <HPODisorderSetStatus id="2513">
       <Disorder id="16682">
         <OrphaNumber>137599</OrphaNumber>
-        <Name lang="fr">Kératite stromale</Name>
+        <Name lang="fr">Kératite stromale due au virus de l'herpès simplex</Name>
       </Disorder>
       <Source>26989540[PMID]_27221681[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -31471,7 +31471,7 @@
     <HPODisorderSetStatus id="2924">
       <Disorder id="10338">
         <OrphaNumber>34516</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique dominante type 1D</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures associée à DNAJB6 D1</Name>
       </Disorder>
       <Source>26847086[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32153,7 +32153,7 @@
     <HPODisorderSetStatus id="3294">
       <Disorder id="10337">
         <OrphaNumber>34515</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2I</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures associée à FKRP R9</Name>
       </Disorder>
       <Source>11592034[PMID]_12666124[PMID]_14523375[PMID]_15505776[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32197,7 +32197,7 @@
     <HPODisorderSetStatus id="3290">
       <Disorder id="22329">
         <OrphaNumber>363623</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2T</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures associée à GMPPB R19</Name>
       </Disorder>
       <Source>23768512[PMID]_26133662[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32395,7 +32395,7 @@
     <HPODisorderSetStatus id="3318">
       <Disorder id="870">
         <OrphaNumber>267</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2A</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures liée à la calpaïne-3 R1</Name>
       </Disorder>
       <Source>15694138[PMID]_10069710[PMID]_19364062[pmid]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32406,7 +32406,7 @@
     <HPODisorderSetStatus id="3319">
       <Disorder id="8715">
         <OrphaNumber>119</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2E</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures  liée au bêta-sarcoglycane R4</Name>
       </Disorder>
       <Source>15684453[PMID]_11369190[PMID]_10662809[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32472,7 +32472,7 @@
     <HPODisorderSetStatus id="3313">
       <Disorder id="11732">
         <OrphaNumber>86812</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2K</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures associée à POMT1 R11</Name>
       </Disorder>
       <Source>14678799[PMID]_20065251[PMID]_22549409[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32582,7 +32582,7 @@
     <HPODisorderSetStatus id="3302">
       <Disorder id="678">
         <OrphaNumber>62</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2D</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures  liée à l'alpha-sarcoglycane R3</Name>
       </Disorder>
       <Source>22303798[PMID]_9585331[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32703,7 +32703,7 @@
     <HPODisorderSetStatus id="3307">
       <Disorder id="8717">
         <OrphaNumber>219</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2F</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures  liée au delta-sarcoglycane R6</Name>
       </Disorder>
       <Source>10735275[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -32736,7 +32736,7 @@
     <HPODisorderSetStatus id="3304">
       <Disorder id="22434">
         <OrphaNumber>369840</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2S</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures associée à TRAPPC11 R18</Name>
       </Disorder>
       <Source>26322222[PMID]_23830518[PMID]_27862579[PMID]_27707803[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33187,7 +33187,7 @@
     <HPODisorderSetStatus id="3258">
       <Disorder id="8716">
         <OrphaNumber>353</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2C</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures liée au gamma-sarcoglycane R5</Name>
       </Disorder>
       <Source>14660840[PMID]_11053682[PMID]_10720277[PMID]_11053682[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -33220,7 +33220,7 @@
     <HPODisorderSetStatus id="3257">
       <Disorder id="18520">
         <OrphaNumber>206549</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2L</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures  liée à l'anoctamine-5 R12</Name>
       </Disorder>
       <Source>17008331[PMID]_23193613[PMID]_17008331[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -34327,17 +34327,6 @@
       <Online>y</Online>
       <CreationDate>2018-02-23 15:44:09.93</CreationDate>
       <UpdateDate>2018-02-23 15:44:09.93</UpdateDate>
-    </HPODisorderSetStatus>
-    <HPODisorderSetStatus id="3082">
-      <Disorder id="8719">
-        <OrphaNumber>264</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique dominante type 1B</Name>
-      </Disorder>
-      <Source>8619549[PMID]_15148145[PMID]_17136397[PMID]_19258295[PMID]</Source>
-      <ValidationStatus>y</ValidationStatus>
-      <Online>y</Online>
-      <CreationDate>2018-02-23 16:21:15.326</CreationDate>
-      <UpdateDate>2018-02-23 16:21:15.326</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3083">
       <Disorder id="11162">
@@ -35889,7 +35878,7 @@
     <HPODisorderSetStatus id="3490">
       <Disorder id="19742">
         <OrphaNumber>254361</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2Q</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures  liée à la plectine R17</Name>
       </Disorder>
       <Source>22864774[PMID]_28447722[PMID]_28824526[PMID]_25556389[PMID]_21109228[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -35911,7 +35900,7 @@
     <HPODisorderSetStatus id="3492">
       <Disorder id="22066">
         <OrphaNumber>352479</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2U</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures associée à ISPD R20</Name>
       </Disorder>
       <Source>26810373[PMID]_23390185[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -38015,7 +38004,7 @@
     <HPODisorderSetStatus id="3800">
       <Disorder id="8720">
         <OrphaNumber>268</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2B</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures liée à la dysferline R2</Name>
       </Disorder>
       <Source>23243261[PMID]_29794729[PMID]_19084402[PMID]_20301480[PMID]_10766988[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -40366,6 +40355,138 @@
       <CreationDate>2019-04-11 08:37:25.82</CreationDate>
       <UpdateDate>2019-04-11 08:37:25.82</UpdateDate>
     </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4005">
+      <Disorder id="23722">
+        <OrphaNumber>457359</OrphaNumber>
+        <Name lang="fr">Syndrome de croissance excessive-mégalencéphalie-cyphoscoliose sévère</Name>
+      </Disorder>
+      <Source>26138117[PMID]_26153217[PMID]_27108999[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-13 10:34:51.836</CreationDate>
+      <UpdateDate>2019-12-13 10:34:51.836</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4004">
+      <Disorder id="23721">
+        <OrphaNumber>457351</OrphaNumber>
+        <Name lang="fr">Syndrome de microcéphalie-déficience intellectuelle-surdité neurosensorielle-épilepsie-tonus musculaire anormal</Name>
+      </Disorder>
+      <Source>27683084[PMID]_26299366[PMID]_27246907[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-12 14:29:52.466</CreationDate>
+      <UpdateDate>2019-12-12 14:29:52.466</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4007">
+      <Disorder id="23726">
+        <OrphaNumber>457395</OrphaNumber>
+        <Name lang="fr">Syndrome de dysplasie spondylo-épimétaphysaire progressive-petite taille-quatrième métatarsien court-déficience intellectuelle</Name>
+      </Disorder>
+      <Source>30063090[PMID]_26365341[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-16 09:19:49.113</CreationDate>
+      <UpdateDate>2019-12-16 09:19:49.113</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4006">
+      <Disorder id="23723">
+        <OrphaNumber>457365</OrphaNumber>
+        <Name lang="fr">Syndrome de déficience intellectuelle-faiblesse musculaire-petite taille-dysmorphie faciale</Name>
+      </Disorder>
+      <Source>26192890[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-13 12:16:30.71</CreationDate>
+      <UpdateDate>2019-12-13 12:16:30.71</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4001">
+      <Disorder id="23708">
+        <OrphaNumber>457212</OrphaNumber>
+        <Name lang="fr">Syndrome de tremblement essentiel progressif-trouble sévère du langage-dysmorphie faciale-déficience intellectuelle-trouble du comportement</Name>
+      </Disorder>
+      <Source>25704603[PMID]_25970702[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-11 14:36:36.583</CreationDate>
+      <UpdateDate>2019-12-11 14:36:36.583</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4000">
+      <Disorder id="794">
+        <OrphaNumber>926</OrphaNumber>
+        <Name lang="fr">Acatalasémie</Name>
+      </Disorder>
+      <Source>11500062[PMID]_24025477[PMID]_24522161[PMID]_25772105[PMID]_1999334[PMID]_11117918[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-11 12:26:07.323</CreationDate>
+      <UpdateDate>2019-12-11 12:26:07.323</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4003">
+      <Disorder id="23720">
+        <OrphaNumber>457284</OrphaNumber>
+        <Name lang="fr">Syndrome de microcéphalie-hypoplasie du corps calleux-déficience intellectuelle-dysmorphie faciale</Name>
+      </Disorder>
+      <Source>31687265[PMID]_25533962[PMID]_26168268[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-12 10:39:52.326</CreationDate>
+      <UpdateDate>2019-12-12 10:39:52.326</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4002">
+      <Disorder id="23719">
+        <OrphaNumber>457279</OrphaNumber>
+        <Name lang="fr">Syndrome de déficience intellectuelle-macrocéphalie-hypotonie-troubles du comportement</Name>
+      </Disorder>
+      <Source>26576547[PMID]_25972378[PMID]_26168268[PMID]_25533962[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-12 08:42:53.04</CreationDate>
+      <UpdateDate>2019-12-12 08:42:53.04</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="4008">
+      <Disorder id="23771">
+        <OrphaNumber>459061</OrphaNumber>
+        <Name lang="fr">Syndrome de dysplasie craniofaciale-petite taille-anomalies ectodermiques-déficience intellectuelle</Name>
+      </Disorder>
+      <Source>29362492[PMID]_29410513[PMID]_26220823[PMID]_25558065[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-16 13:24:40.48</CreationDate>
+      <UpdateDate>2019-12-16 13:24:40.48</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3975">
+      <Disorder id="23039">
+        <OrphaNumber>412035</OrphaNumber>
+        <Name lang="fr">Syndrome de microdélétion 13q12.3</Name>
+      </Disorder>
+      <Source>24664804[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-02 16:26:10.966</CreationDate>
+      <UpdateDate>2019-12-02 16:26:10.966</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3974">
+      <Disorder id="22694">
+        <OrphaNumber>397709</OrphaNumber>
+        <Name lang="fr">Syndrome de déficience intellectuelle-traits grossiers du visage-macrocéphalie-hypotrophie cérébelleuse</Name>
+      </Disorder>
+      <Source>27913285[PMID]_25848753[PMID]_25439728[PMID]_24501761[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-02 15:23:57.976</CreationDate>
+      <UpdateDate>2019-12-02 15:23:57.976</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3973">
+      <Disorder id="17872">
+        <OrphaNumber>169802</OrphaNumber>
+        <Name lang="fr">Hémophilie A sévère</Name>
+      </Disorder>
+      <Source>P:0030137</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-02 12:00:23.79</CreationDate>
+      <UpdateDate>2019-12-02 12:00:23.79</UpdateDate>
+    </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3972">
       <Disorder id="22687">
         <OrphaNumber>397612</OrphaNumber>
@@ -40420,6 +40541,270 @@
       <Online>y</Online>
       <CreationDate>2019-11-26 09:47:24.8</CreationDate>
       <UpdateDate>2019-11-26 09:47:24.8</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3983">
+      <Disorder id="22854">
+        <OrphaNumber>401935</OrphaNumber>
+        <Name lang="fr">Syndrome de microdélétion 14q24.1q24.3</Name>
+      </Disorder>
+      <Source>24357125[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 15:00:19.723</CreationDate>
+      <UpdateDate>2019-12-04 15:00:19.723</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3982">
+      <Disorder id="22852">
+        <OrphaNumber>401923</OrphaNumber>
+        <Name lang="fr">Syndrome de microdélétion 9 q31.1q31.3</Name>
+      </Disorder>
+      <Source>24376033[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 14:34:24.936</CreationDate>
+      <UpdateDate>2019-12-04 14:34:24.936</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3981">
+      <Disorder id="22827">
+        <OrphaNumber>401777</OrphaNumber>
+        <Name lang="fr">Syndrome d'atrophie optique-déficience intellectuelle</Name>
+      </Disorder>
+      <Source>26986877[PMID]_28963436[PMID]_24462372[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 13:42:58.703</CreationDate>
+      <UpdateDate>2019-12-04 13:42:58.703</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3980">
+      <Disorder id="22715">
+        <OrphaNumber>397973</OrphaNumber>
+        <Name lang="fr">Syndrome de déficience intellectuelle-obésité-prognathisme-anomalies oculaires et cutanées</Name>
+      </Disorder>
+      <Source>19288561[PMID]_11746007[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 16:11:10.666</CreationDate>
+      <UpdateDate>2019-12-03 16:11:10.666</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3979">
+      <Disorder id="22711">
+        <OrphaNumber>397951</OrphaNumber>
+        <Name lang="fr">Syndrome de microcéphalie-corps calleux fin-déficience intellectuelle</Name>
+      </Disorder>
+      <Source>24084144[PMID]_22633631[PMID]_21937992[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 15:29:34.68</CreationDate>
+      <UpdateDate>2019-12-03 15:29:34.68</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3978">
+      <Disorder id="23271">
+        <OrphaNumber>434179</OrphaNumber>
+        <Name lang="fr">Syndrome oro-facio-digital type 14</Name>
+      </Disorder>
+      <Source>30097616[PMID]_24997988[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 14:40:45.343</CreationDate>
+      <UpdateDate>2019-12-03 14:40:45.343</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3977">
+      <Disorder id="23113">
+        <OrphaNumber>420561</OrphaNumber>
+        <Name lang="fr">Syndrome de Temple-Baraitser</Name>
+      </Disorder>
+      <Source>26818738[PMID]_25629734[PMID]_25420144[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 11:36:37.163</CreationDate>
+      <UpdateDate>2019-12-03 11:36:37.163</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3976">
+      <Disorder id="23042">
+        <OrphaNumber>412069</OrphaNumber>
+        <Name lang="fr">Syndrome de déficience intellectuelle-apnée obstructive du sommeil-dysmorphie modérée associé à AHDC1</Name>
+      </Disorder>
+      <Source>30152016[PMID]_29696776[PMID]_24791903[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-03 09:18:14.6</CreationDate>
+      <UpdateDate>2019-12-03 09:18:14.6</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3990">
+      <Disorder id="23391">
+        <OrphaNumber>439822</OrphaNumber>
+        <Name lang="fr">Syndrome par haploinsuffisance de PDE4D</Name>
+      </Disorder>
+      <Source>24203977[PMID]_28515031[PMID]_30006632[PMID]_21594994[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-06 12:00:35.546</CreationDate>
+      <UpdateDate>2019-12-06 12:00:35.546</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3991">
+      <Disorder id="23474">
+        <OrphaNumber>444013</OrphaNumber>
+        <Name lang="fr">Déficit combiné de la phosphorylation oxydative type 23</Name>
+      </Disorder>
+      <Source>25434004[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-06 14:22:03.21</CreationDate>
+      <UpdateDate>2019-12-06 14:22:03.21</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3988">
+      <Disorder id="23365">
+        <OrphaNumber>438134</OrphaNumber>
+        <Name lang="fr">Syndrome neurodégénératif progressif avec photosensibilité associé à PCNA</Name>
+      </Disorder>
+      <Source>24911150[PMID]_26255937[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-05 13:25:22.056</CreationDate>
+      <UpdateDate>2019-12-05 13:25:22.056</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3989">
+      <Disorder id="23367">
+        <OrphaNumber>438178</OrphaNumber>
+        <Name lang="fr">Syndrome de déficience intellectuelle sévère-épilepsie-cataracte par déficit en acyl-CoA réductase 1</Name>
+      </Disorder>
+      <Source>25439727[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-05 14:47:24.24</CreationDate>
+      <UpdateDate>2019-12-05 14:47:24.24</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3986">
+      <Disorder id="23328">
+        <OrphaNumber>436151</OrphaNumber>
+        <Name lang="fr">Syndrome de déficience intellectuelle-aphasie expressive-dysmorphie faciale</Name>
+      </Disorder>
+      <Source>26139234[PMID]_25217958[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-05 09:29:48.51</CreationDate>
+      <UpdateDate>2019-12-05 09:29:48.51</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3987">
+      <Disorder id="23335">
+        <OrphaNumber>436245</OrphaNumber>
+        <Name lang="fr">Syndrome de rétinite pigmentaire-cataracte juvénile petite taille-déficience intellectuelle</Name>
+      </Disorder>
+      <Source>10420199[PMID]_24916380[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-05 11:34:59.246</CreationDate>
+      <UpdateDate>2019-12-05 11:34:59.246</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3984">
+      <Disorder id="22922">
+        <OrphaNumber>404451</OrphaNumber>
+        <Name lang="fr">Syndrome de retard de développement-anomalie du système nerveux central-syndactylie dû à des mutations de FBLN1</Name>
+      </Disorder>
+      <Source>24084572[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 15:33:22.313</CreationDate>
+      <UpdateDate>2019-12-04 15:33:22.313</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3985">
+      <Disorder id="23037">
+        <OrphaNumber>411986</OrphaNumber>
+        <Name lang="fr">Syndrome d'encéphalopathie épileptique infantile précoce-cécité corticale-déficience intellectuelle-dysmorphie faciale</Name>
+      </Disorder>
+      <Source>24814191[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-04 16:07:27.363</CreationDate>
+      <UpdateDate>2019-12-04 16:07:27.363</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3998">
+      <Disorder id="23649">
+        <OrphaNumber>453533</OrphaNumber>
+        <Name lang="fr">Syndrome de polyendocrinopathie-polyneuropathie</Name>
+      </Disorder>
+      <Source>25248098[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-10 14:05:14.096</CreationDate>
+      <UpdateDate>2019-12-10 14:05:14.096</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3999">
+      <Disorder id="23707">
+        <OrphaNumber>457205</OrphaNumber>
+        <Name lang="fr">Syndrome de neuropathie sensitivo-motrice axonale-atrophie optique-neurodégénerescence à début infantile</Name>
+      </Disorder>
+      <Source>25504045[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-11 09:24:45.956</CreationDate>
+      <UpdateDate>2019-12-11 09:24:45.956</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3996">
+      <Disorder id="23645">
+        <OrphaNumber>453499</OrphaNumber>
+        <Name lang="fr">Syndrome de dysmorphie craniofaciale-anomalies squelettiques-cardiopathie-trouble neurologique du développement</Name>
+      </Disorder>
+      <Source>30998304[PMID]_29904177[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-10 09:45:18.406</CreationDate>
+      <UpdateDate>2019-12-10 09:45:18.406</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3997">
+      <Disorder id="23647">
+        <OrphaNumber>453510</OrphaNumber>
+        <Name lang="fr">Insensibilité congénitale à la douleur avec déficience intellectuelle sévère</Name>
+      </Disorder>
+      <Source>29419974[PMID]_26068709[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-10 12:57:50.643</CreationDate>
+      <UpdateDate>2019-12-10 12:57:50.643</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3994">
+      <Disorder id="23558">
+        <OrphaNumber>447980</OrphaNumber>
+        <Name lang="fr">Syndrome de microduplication 19p13.3</Name>
+      </Disorder>
+      <Source>25858326[PMID]_20613546[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-09 14:23:02.72</CreationDate>
+      <UpdateDate>2019-12-09 14:23:02.72</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3995">
+      <Disorder id="23560">
+        <OrphaNumber>447997</OrphaNumber>
+        <Name lang="fr">Syndrome tétraplégie spastique-corps calleux fin-microcéphalie postnatale progressive</Name>
+      </Disorder>
+      <Source>31763347[PMID]_29989513[PMID]_27161889[PMID]_26041762[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-09 16:25:55.046</CreationDate>
+      <UpdateDate>2019-12-09 16:25:55.046</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3992">
+      <Disorder id="23478">
+        <OrphaNumber>444072</OrphaNumber>
+        <Name lang="fr">Syndrome cérébellofaciodentaire</Name>
+      </Disorder>
+      <Source>25561519[PMID]_27748960[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-06 17:25:47.45</CreationDate>
+      <UpdateDate>2019-12-06 17:25:47.45</UpdateDate>
+    </HPODisorderSetStatus>
+    <HPODisorderSetStatus id="3993">
+      <Disorder id="23479">
+        <OrphaNumber>444077</OrphaNumber>
+        <Name lang="fr">Syndrome de déficit cognitif-traits grossiers du visage-malformations cardiaques-obésité-atteinte pulmonaire-petite taille</Name>
+      </Disorder>
+      <Source>31058441[PMID]_25730767[PMID]</Source>
+      <ValidationStatus>y</ValidationStatus>
+      <Online>y</Online>
+      <CreationDate>2019-12-09 11:19:59.57</CreationDate>
+      <UpdateDate>2019-12-09 11:19:59.57</UpdateDate>
     </HPODisorderSetStatus>
     <HPODisorderSetStatus id="3944">
       <Disorder id="22317">
@@ -41568,7 +41953,7 @@
     <HPODisorderSetStatus id="3846">
       <Disorder id="20455">
         <OrphaNumber>280333</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2P</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures  liée à l'alpha dystroglycane R16</Name>
       </Disorder>
       <Source>22677325[PMID]_25503980[PMID]_14678799[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>
@@ -41645,7 +42030,7 @@
     <HPODisorderSetStatus id="3841">
       <Disorder id="18522">
         <OrphaNumber>206559</OrphaNumber>
-        <Name lang="fr">Dystrophie musculaire des ceintures autosomique récessive type 2N</Name>
+        <Name lang="fr">Dystrophie musculaire des ceintures associée à POMT2 R14</Name>
       </Disorder>
       <Source>29175898[PMID]_17878207[PMID]_20301582[PMID]_17923109[PMID]</Source>
       <ValidationStatus>y</ValidationStatus>

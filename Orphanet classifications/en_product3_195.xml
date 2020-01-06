@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:59:33" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 05:00:48" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -778,7 +778,7 @@
                           <Disorder id="18313">
                             <OrphaNumber>183713</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=183713</ExpertLink>
-                            <Name lang="en">Pyogenic bacterial infections due to MyD88 deficiency</Name>
+                            <Name lang="en">Bacterial susceptibility due to TLR signaling pathway deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -2353,7 +2353,7 @@
                           <Disorder id="17819">
                             <OrphaNumber>169095</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=169095</ExpertLink>
-                            <Name lang="en">Alymphoid cystic thymic dysgenesis</Name>
+                            <Name lang="en">Severe combined immunodeficiency due to FOXN1 deficiency</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:59:53" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 05:01:08" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1120,7 +1120,7 @@
                           <Disorder id="17618">
                             <OrphaNumber>166100</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166100</ExpertLink>
-                            <Name lang="en">Stickler syndrome type 3</Name>
+                            <Name lang="en">Autosomal dominant otospondylomegaepiphyseal dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -1459,7 +1459,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139039</ExpertLink>
                     <Name lang="en">Orofacial clefting syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="73">
+                  <ClassificationNodeChildList count="72">
                     <ClassificationNode>
                       <Disorder id="280">
                         <OrphaNumber>564</OrphaNumber>
@@ -1956,15 +1956,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="3034">
-                        <OrphaNumber>3450</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3450</ExpertLink>
-                        <Name lang="en">Weissenbacher- Zweymuller syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="25164">
                         <OrphaNumber>477993</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477993</ExpertLink>
@@ -2076,7 +2067,7 @@
                       <Disorder id="17618">
                         <OrphaNumber>166100</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166100</ExpertLink>
-                        <Name lang="en">Stickler syndrome type 3</Name>
+                        <Name lang="en">Autosomal dominant otospondylomegaepiphyseal dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

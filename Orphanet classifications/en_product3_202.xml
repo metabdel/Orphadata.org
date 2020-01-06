@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:59:45" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 05:01:00" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -5892,16 +5892,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251852</ExpertLink>
                             <Name lang="en">Embryonal tumor of neuroepithelial tissue</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="4">
-                            <ClassificationNode>
-                              <Disorder id="3736">
-                                <OrphaNumber>2677</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2677</ExpertLink>
-                                <Name lang="en">OBSOLETE: Neuroepithelioma</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="3">
                             <ClassificationNode>
                               <Disorder id="3751">
                                 <OrphaNumber>616</OrphaNumber>
@@ -5960,7 +5951,7 @@
                               <Disorder id="19684">
                                 <OrphaNumber>251870</OrphaNumber>
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=251870</ExpertLink>
-                                <Name lang="en">Central nervous system primitive neuroectodermal tumor</Name>
+                                <Name lang="en">Central nervous system embryonal tumor</Name>
                               </Disorder>
                               <ClassificationNodeChildList count="5">
                                 <ClassificationNode>
@@ -7359,16 +7350,7 @@
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=180253</ExpertLink>
                             <Name lang="en">Rare benign breast tumor</Name>
                           </Disorder>
-                          <ClassificationNodeChildList count="3">
-                            <ClassificationNode>
-                              <Disorder id="10661">
-                                <OrphaNumber>50920</OrphaNumber>
-                                <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=50920</ExpertLink>
-                                <Name lang="en">OBSOLETE: Multiple fibroadenoma of the breast</Name>
-                              </Disorder>
-                              <ClassificationNodeChildList count="0">
-                              </ClassificationNodeChildList>
-                            </ClassificationNode>
+                          <ClassificationNodeChildList count="2">
                             <ClassificationNode>
                               <Disorder id="18137">
                                 <OrphaNumber>180261</OrphaNumber>

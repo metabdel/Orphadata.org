@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:58:36" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 04:59:51" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -283,7 +283,7 @@
                           <Disorder id="25220">
                             <OrphaNumber>480682</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=480682</ExpertLink>
-                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2Z</Name>
+                            <Name lang="en">POGLUT1-related  limb-girdle muscular dystrophy R21</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -445,7 +445,7 @@
                           <Disorder id="10337">
                             <OrphaNumber>34515</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=34515</ExpertLink>
-                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2I</Name>
+                            <Name lang="en">FKRP-related  limb-girdle muscular dystrophy R9</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -454,7 +454,7 @@
                           <Disorder id="11732">
                             <OrphaNumber>86812</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=86812</ExpertLink>
-                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2K</Name>
+                            <Name lang="en">POMT1-related  limb-girdle muscular dystrophy R11</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -463,7 +463,7 @@
                           <Disorder id="18521">
                             <OrphaNumber>206554</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206554</ExpertLink>
-                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2M</Name>
+                            <Name lang="en">Fukutin-related  limb-girdle muscular dystrophy R13</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -472,7 +472,7 @@
                           <Disorder id="18522">
                             <OrphaNumber>206559</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206559</ExpertLink>
-                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2N</Name>
+                            <Name lang="en">POMT2-related  limb-girdle muscular dystrophy R14</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -481,7 +481,7 @@
                           <Disorder id="18523">
                             <OrphaNumber>206564</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=206564</ExpertLink>
-                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2O</Name>
+                            <Name lang="en">POMGNT1-related  limb-girdle muscular dystrophy R15</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -490,7 +490,7 @@
                           <Disorder id="22066">
                             <OrphaNumber>352479</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=352479</ExpertLink>
-                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2U</Name>
+                            <Name lang="en">ISPD-related  limb-girdle muscular dystrophy R20</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -499,7 +499,7 @@
                           <Disorder id="22329">
                             <OrphaNumber>363623</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=363623</ExpertLink>
-                            <Name lang="en">Autosomal recessive limb-girdle muscular dystrophy type 2T</Name>
+                            <Name lang="en">GMPPB-related  limb-girdle muscular dystrophy R19</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4785,7 +4785,7 @@
                       <Disorder id="3513">
                         <OrphaNumber>2088</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2088</ExpertLink>
-                        <Name lang="en">Glycogen storage disease due to GLUT2 deficiency</Name>
+                        <Name lang="en">Fanconi-Bickel Syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -5197,7 +5197,7 @@
                           <Disorder id="3513">
                             <OrphaNumber>2088</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2088</ExpertLink>
-                            <Name lang="en">Glycogen storage disease due to GLUT2 deficiency</Name>
+                            <Name lang="en">Fanconi-Bickel Syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6511,7 +6511,7 @@
                                 <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=254776</ExpertLink>
                                 <Name lang="en">Mitochondrial oxidative phosphorylation disorder due to a point mutation of mitochondrial DNA</Name>
                               </Disorder>
-                              <ClassificationNodeChildList count="14">
+                              <ClassificationNodeChildList count="13">
                                 <ClassificationNode>
                                   <Disorder id="63">
                                     <OrphaNumber>550</OrphaNumber>
@@ -6571,15 +6571,6 @@
                                     <OrphaNumber>99718</OrphaNumber>
                                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=99718</ExpertLink>
                                     <Name lang="en">Leber plus disease</Name>
-                                  </Disorder>
-                                  <ClassificationNodeChildList count="0">
-                                  </ClassificationNodeChildList>
-                                </ClassificationNode>
-                                <ClassificationNode>
-                                  <Disorder id="17783">
-                                    <OrphaNumber>168609</OrphaNumber>
-                                    <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168609</ExpertLink>
-                                    <Name lang="en">Mitochondrial non-syndromic sensorineural deafness with susceptibility to aminoglycoside exposure</Name>
                                   </Disorder>
                                   <ClassificationNodeChildList count="0">
                                   </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:59:42" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 05:00:57" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -105,7 +105,7 @@
                       <Disorder id="17618">
                         <OrphaNumber>166100</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166100</ExpertLink>
-                        <Name lang="en">Stickler syndrome type 3</Name>
+                        <Name lang="en">Autosomal dominant otospondylomegaepiphyseal dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1945,113 +1945,41 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=87884</ExpertLink>
                     <Name lang="en">Non-syndromic genetic deafness</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="2">
+                  <ClassificationNodeChildList count="4">
                     <ClassificationNode>
-                      <Disorder id="18785">
-                        <OrphaNumber>216445</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=216445</ExpertLink>
-                        <Name lang="en">Prelingual non-syndromic genetic deafness</Name>
+                      <Disorder id="12047">
+                        <OrphaNumber>90636</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90636</ExpertLink>
+                        <Name lang="en">Autosomal recessive non-syndromic sensorineural deafness type DFNB</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
-                        <ClassificationNode>
-                          <Disorder id="157">
-                            <OrphaNumber>383</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=383</ExpertLink>
-                            <Name lang="en">X-linked mixed deafness with perilymphatic gusher</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12045">
-                            <OrphaNumber>90625</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90625</ExpertLink>
-                            <Name lang="en">X-linked non-syndromic sensorineural deafness type DFN</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12046">
-                            <OrphaNumber>90635</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90635</ExpertLink>
-                            <Name lang="en">Autosomal dominant non-syndromic sensorineural deafness type DFNA</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12047">
-                            <OrphaNumber>90636</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90636</ExpertLink>
-                            <Name lang="en">Autosomal recessive non-syndromic sensorineural deafness type DFNB</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12050">
-                            <OrphaNumber>90641</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90641</ExpertLink>
-                            <Name lang="en">Mitochondrial non-syndromic sensorineural deafness</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="18786">
-                        <OrphaNumber>216452</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=216452</ExpertLink>
-                        <Name lang="en">Postlingual non-syndromic genetic deafness</Name>
+                      <Disorder id="12050">
+                        <OrphaNumber>90641</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90641</ExpertLink>
+                        <Name lang="en">Mitochondrial non-syndromic sensorineural deafness</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="5">
-                        <ClassificationNode>
-                          <Disorder id="12045">
-                            <OrphaNumber>90625</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90625</ExpertLink>
-                            <Name lang="en">X-linked non-syndromic sensorineural deafness type DFN</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12046">
-                            <OrphaNumber>90635</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90635</ExpertLink>
-                            <Name lang="en">Autosomal dominant non-syndromic sensorineural deafness type DFNA</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12047">
-                            <OrphaNumber>90636</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90636</ExpertLink>
-                            <Name lang="en">Autosomal recessive non-syndromic sensorineural deafness type DFNB</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="12050">
-                            <OrphaNumber>90641</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90641</ExpertLink>
-                            <Name lang="en">Mitochondrial non-syndromic sensorineural deafness</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="17783">
-                            <OrphaNumber>168609</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=168609</ExpertLink>
-                            <Name lang="en">Mitochondrial non-syndromic sensorineural deafness with susceptibility to aminoglycoside exposure</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="12045">
+                        <OrphaNumber>90625</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90625</ExpertLink>
+                        <Name lang="en">X-linked non-syndromic sensorineural deafness type DFN</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
+                      </ClassificationNodeChildList>
+                    </ClassificationNode>
+                    <ClassificationNode>
+                      <Disorder id="12046">
+                        <OrphaNumber>90635</OrphaNumber>
+                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=90635</ExpertLink>
+                        <Name lang="en">Autosomal dominant non-syndromic sensorineural deafness type DFNA</Name>
+                      </Disorder>
+                      <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                   </ClassificationNodeChildList>
@@ -3370,7 +3298,7 @@
                           <Disorder id="17618">
                             <OrphaNumber>166100</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166100</ExpertLink>
-                            <Name lang="en">Stickler syndrome type 3</Name>
+                            <Name lang="en">Autosomal dominant otospondylomegaepiphyseal dysplasia</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -3709,7 +3637,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=139039</ExpertLink>
                     <Name lang="en">Orofacial clefting syndrome</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="72">
+                  <ClassificationNodeChildList count="71">
                     <ClassificationNode>
                       <Disorder id="280">
                         <OrphaNumber>564</OrphaNumber>
@@ -4197,15 +4125,6 @@
                       </ClassificationNodeChildList>
                     </ClassificationNode>
                     <ClassificationNode>
-                      <Disorder id="3034">
-                        <OrphaNumber>3450</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3450</ExpertLink>
-                        <Name lang="en">Weissenbacher- Zweymuller syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
                       <Disorder id="25164">
                         <OrphaNumber>477993</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=477993</ExpertLink>
@@ -4317,7 +4236,7 @@
                       <Disorder id="17618">
                         <OrphaNumber>166100</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166100</ExpertLink>
-                        <Name lang="en">Stickler syndrome type 3</Name>
+                        <Name lang="en">Autosomal dominant otospondylomegaepiphyseal dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

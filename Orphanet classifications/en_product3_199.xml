@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:59:40" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 05:00:55" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -1063,7 +1063,7 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=253</ExpertLink>
                     <Name lang="en">Spondyloepiphyseal dysplasia and spondyloepimetaphyseal dysplasia</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="57">
+                  <ClassificationNodeChildList count="56">
                     <ClassificationNode>
                       <Disorder id="1647">
                         <OrphaNumber>1458</OrphaNumber>
@@ -1213,15 +1213,6 @@
                         <OrphaNumber>1856</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=1856</ExpertLink>
                         <Name lang="en">Spondyloperipheral dysplasia-short ulna syndrome</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="3034">
-                        <OrphaNumber>3450</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3450</ExpertLink>
-                        <Name lang="en">Weissenbacher- Zweymuller syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -1464,7 +1455,7 @@
                       <Disorder id="17618">
                         <OrphaNumber>166100</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166100</ExpertLink>
-                        <Name lang="en">Stickler syndrome type 3</Name>
+                        <Name lang="en">Autosomal dominant otospondylomegaepiphyseal dysplasia</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -9460,21 +9451,12 @@
                     <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=399319</ExpertLink>
                     <Name lang="en">Osteochondrosis</Name>
                   </Disorder>
-                  <ClassificationNodeChildList count="9">
+                  <ClassificationNodeChildList count="8">
                     <ClassificationNode>
                       <Disorder id="579">
                         <OrphaNumber>3135</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=3135</ExpertLink>
                         <Name lang="en">Familial Scheuermann disease</Name>
-                      </Disorder>
-                      <ClassificationNodeChildList count="0">
-                      </ClassificationNodeChildList>
-                    </ClassificationNode>
-                    <ClassificationNode>
-                      <Disorder id="746">
-                        <OrphaNumber>2054</OrphaNumber>
-                        <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2054</ExpertLink>
-                        <Name lang="en">OBSOLETE: Osteochondritis of tarsal/metatarsal bone</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2019-12-01 04:59:23" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2019">
+<JDBOR date="2020-01-01 05:00:38" version="1.2.11 / 4.1.6 [2018-04-12] (orientdb version)" copyright="Orphanet (c) 2020">
 <Availability> 
  <Licence>
     <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
@@ -2524,7 +2524,7 @@
                           <Disorder id="8574">
                             <OrphaNumber>346</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=346</ExpertLink>
-                            <Name lang="en">Quinquaud's folliculitis decalvans</Name>
+                            <Name lang="en">Quinquaud folliculitis decalvans</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -6758,7 +6758,7 @@
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=98305</ExpertLink>
                         <Name lang="en">Genetic lipodystrophy</Name>
                       </Disorder>
-                      <ClassificationNodeChildList count="13">
+                      <ClassificationNodeChildList count="12">
                         <ClassificationNode>
                           <Disorder id="1007">
                             <OrphaNumber>528</OrphaNumber>
@@ -6910,15 +6910,6 @@
                               <ClassificationNodeChildList count="0">
                               </ClassificationNodeChildList>
                             </ClassificationNode>
-                          </ClassificationNodeChildList>
-                        </ClassificationNode>
-                        <ClassificationNode>
-                          <Disorder id="17100">
-                            <OrphaNumber>156156</OrphaNumber>
-                            <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=156156</ExpertLink>
-                            <Name lang="en">Lipoatrophy with diabetes, leukomelanodermic papules, liver steatosis, and hypertrophic cardiomyopathy</Name>
-                          </Disorder>
-                          <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
                         </ClassificationNode>
                         <ClassificationNode>
